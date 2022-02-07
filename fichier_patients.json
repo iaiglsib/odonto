@@ -1,0 +1,73 @@
+[
+    {
+        "Patient id": "1",
+        "Nom": "N'DAH",
+        "Age": 21,
+        "Sexe": "M",
+        "Diagnostic ": {
+            "Date consultation": "2022-02-07 07:44:06.347372",
+            "Test de sensibilite1": "Positif",
+            "Test de sensibilite2": "Douloureux",
+            "Test de sensibilite3": "Remanent",
+            "Test de percution axiale": "Positif",
+            "Test de palpation apicale": "Negatif",
+            "Troubles": [
+                "Pulpite_aigue_et_parodontite_apicale_aigue_initiale"
+            ]
+        }
+    }
+][
+    {
+        "Patient id": "2",
+        "Nom": "AKUE",
+        "Age": 19,
+        "Sexe": "M",
+        "Diagnostic ": {
+            "Date consultation": "2022-02-07 07:46:10.665056",
+            "Test de sensibilite1": "Positif",
+            "Test de sensibilite2": "Non_Douloureux",
+            "Test de sensibilite3": "Remanent",
+            "Test de percution axiale": "Negatif",
+            "Test de palpation apicale": "Negatif",
+            "Troubles": [
+                "Expertise medicale requise"
+            ]
+        }
+    }
+][
+    {
+        "Patient id": "3",
+        "Nom": "TCHALLA",
+        "Age": 20,
+        "Sexe": "M",
+        "Diagnostic ": {
+            "Date consultation": "2022-02-07 07:50:37.650019",
+            "Test de sensibilite1": "Positif",
+            "Test de sensibilite2": "Non_Douloureux",
+            "Test de sensibilite3": "Non_Remanent",
+            "Test de percution axiale": "Positif",
+            "Test de palpation apicale": "Negatif",
+            "Troubles": [
+                "Expertise medicale requise"
+            ]
+        }
+    }
+][
+    {
+        "Patient id": "4",
+        "Nom": "MOUMOUNI",
+        "Age": 21,
+        "Sexe": "F",
+        "Diagnostic ": {
+            "Date consultation": "2022-02-07 07:52:00.868613",
+            "Test de sensibilite1": "Negatif",
+            "Test de sensibilite2": "Non_Douloureux",
+            "Test de sensibilite3": "Remanent",
+            "Test de percution axiale": "Positif",
+            "Test de palpation apicale": "Positif",
+            "Troubles": [
+                "Abces_apical_secondaire"
+            ]
+        }
+    }
+]
